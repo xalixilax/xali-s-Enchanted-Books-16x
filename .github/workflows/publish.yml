@@ -42,9 +42,9 @@ jobs:
       - name: Publish
         uses: Kir-Antipov/mc-publish@v3.2
         with:
-          modrinth-id: ZpBKASR2
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          curseforge-id: 513425
+          # modrinth-id: ZpBKASR2
+          # modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          curseforge-id: 478165
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           files-primary: xali's Enchanted Books v0.11.zip
           name: xali's Enchanted Books v0.11
