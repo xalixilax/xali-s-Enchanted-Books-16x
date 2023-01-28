@@ -1,4 +1,4 @@
-name: Optimize resource pack
+name: Publish
 
 on:
   push:
