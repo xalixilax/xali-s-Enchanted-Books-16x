@@ -31,7 +31,7 @@ jobs:
 
       - name: Rename Optimized Pack
         run: |
-          mv ./pack.zip "xali's Enchanted Books v0.11.zip"
+          mv ./pack.zip "xali's Enchanted Books v0.12.0.zip"
 
       - name: Delete Artifact
         uses: geekyeggo/delete-artifact@v1
@@ -46,12 +46,13 @@ jobs:
           # modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           curseforge-id: 478165
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-          files-primary: xali's Enchanted Books v0.11.zip
-          name: xali's Enchanted Books v0.11
-          version: v0.11
+          files-primary: xali's Enchanted Books v0.12.0.zip
+          name: xali's Enchanted Books v0.12.0
+          version: 0.12.0
           version-type: release
           changelog-file: CHANGELOG.md
           game-versions: |
+            1.19.3
             1.19.2
             1.19.1
             1.19
