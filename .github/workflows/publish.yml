@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 0 # A non-shallow repository clone is required
 
       - name: Make Optimized Pack
-        uses: ComunidadAylas/PackSquash-action@master
+        uses: ComunidadAylas/PackSquash-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           allow_optifine_mod: true
