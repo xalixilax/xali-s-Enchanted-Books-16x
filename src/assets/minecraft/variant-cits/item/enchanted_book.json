@@ -1,0 +1,7 @@
+{
+	"type": "stored_enchantments",
+	"variantsDir": "item/enchanted_book",
+	"special": {
+		"multi": null
+	}
+}
