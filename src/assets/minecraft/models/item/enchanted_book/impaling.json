@@ -1,0 +1,29 @@
+{
+  "parent": "item/enchanted_book_levels/impaling1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/impaling2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/impaling3"
+    },
+    {
+      "predicate": {
+        "level": 4
+      },
+      "model": "item/enchanted_book_levels/impaling4"
+    },
+    {
+      "predicate": {
+        "level": 5
+      },
+      "model": "item/enchanted_book_levels/impaling5"
+    }
+  ]
+}

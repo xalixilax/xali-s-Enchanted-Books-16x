@@ -1,0 +1,23 @@
+{
+  "parent": "item/enchanted_book_levels/projectile_protection1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/projectile_protection2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/projectile_protection3"
+    },
+    {
+      "predicate": {
+        "level": 4
+      },
+      "model": "item/enchanted_book_levels/projectile_protection4"
+    }
+  ]
+}

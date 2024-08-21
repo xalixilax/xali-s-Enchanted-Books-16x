@@ -1,0 +1,29 @@
+{
+  "parent": "item/enchanted_book_levels/efficiency1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/efficiency2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/efficiency3"
+    },
+    {
+      "predicate": {
+        "level": 4
+      },
+      "model": "item/enchanted_book_levels/efficiency4"
+    },
+    {
+      "predicate": {
+        "level": 5
+      },
+      "model": "item/enchanted_book_levels/efficiency5"
+    }
+  ]
+}

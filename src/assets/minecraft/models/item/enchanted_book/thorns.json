@@ -1,0 +1,17 @@
+{
+  "parent": "item/enchanted_book_levels/thorns1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/thorns2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/thorns3"
+    }
+  ]
+}
