@@ -19,3 +19,4 @@
 *.aseprite
 Textures.aseprite
 *.pxc
+.DS_Store

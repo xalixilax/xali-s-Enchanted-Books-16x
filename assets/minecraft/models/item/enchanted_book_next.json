@@ -1,0 +1,758 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/enchanted_book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/aqua_affinity1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/bane_of_arthropods1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/bane_of_arthropods2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/bane_of_arthropods3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/bane_of_arthropods4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/bane_of_arthropods5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/blast_protection1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/blast_protection2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/blast_protection3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/blast_protection4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/breach1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/breach2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/breach3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/breach4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:item/channeling1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/binding_curse1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:item/vanishing_curse1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:item/density1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "minecraft:item/density2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "minecraft:item/density3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "minecraft:item/density4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "minecraft:item/density5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "minecraft:item/depth_strider1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "minecraft:item/depth_strider2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "minecraft:item/depth_strider3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "minecraft:item/efficiency1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "minecraft:item/efficiency2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "minecraft:item/efficiency3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "minecraft:item/efficiency4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "minecraft:item/efficiency5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "minecraft:item/feather_falling1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "minecraft:item/feather_falling2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "minecraft:item/feather_falling3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "minecraft:item/feather_falling4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "minecraft:item/fire_aspect1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "minecraft:item/fire_aspect2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "minecraft:item/fire_protection1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "minecraft:item/fire_protection2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "minecraft:item/fire_protection3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "minecraft:item/fire_protection4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "minecraft:item/flame1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "minecraft:item/fortune1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "minecraft:item/fortune2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "minecraft:item/fortune3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "minecraft:item/frost_walker1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "minecraft:item/frost_walker2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "minecraft:item/impaling1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "minecraft:item/impaling2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "minecraft:item/impaling3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "minecraft:item/impaling4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "minecraft:item/impaling5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "minecraft:item/infinity1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "minecraft:item/knockback1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "minecraft:item/knockback2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "minecraft:item/looting1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "minecraft:item/looting2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "minecraft:item/looting3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "minecraft:item/loyalty1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "minecraft:item/loyalty2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "minecraft:item/loyalty3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "minecraft:item/luck_of_the_sea1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "minecraft:item/luck_of_the_sea2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "minecraft:item/luck_of_the_sea3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "minecraft:item/lure1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "minecraft:item/lure2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "minecraft:item/lure3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "minecraft:item/mending1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "minecraft:item/multishot1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "minecraft:item/piercing1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "minecraft:item/piercing2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "minecraft:item/piercing3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "minecraft:item/piercing4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "minecraft:item/power1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "minecraft:item/power2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "minecraft:item/power3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "minecraft:item/power4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "minecraft:item/power5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "minecraft:item/projectile_protection1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "minecraft:item/projectile_protection2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "minecraft:item/projectile_protection3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "minecraft:item/projectile_protection4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "minecraft:item/protection1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "minecraft:item/protection2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "minecraft:item/protection3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "minecraft:item/protection4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "minecraft:item/punch1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "minecraft:item/punch2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "minecraft:item/quick_charge1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "minecraft:item/quick_charge2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "minecraft:item/quick_charge3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "minecraft:item/respiration1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "minecraft:item/respiration2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "minecraft:item/respiration3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "minecraft:item/riptide1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "minecraft:item/riptide2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "minecraft:item/riptide3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "minecraft:item/sharpness1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "minecraft:item/sharpness2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "minecraft:item/sharpness3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "minecraft:item/sharpness4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "minecraft:item/sharpness5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "minecraft:item/silk_touch1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "minecraft:item/smite1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "minecraft:item/smite2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "minecraft:item/smite3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "minecraft:item/smite4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "minecraft:item/smite5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "minecraft:item/soul_speed1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "minecraft:item/soul_speed2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "minecraft:item/soul_speed3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "minecraft:item/sweeping1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "minecraft:item/sweeping2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "minecraft:item/sweeping3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "minecraft:item/swift_sneak1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "minecraft:item/swift_sneak2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "minecraft:item/swift_sneak3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "minecraft:item/thorns1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "minecraft:item/thorns2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "minecraft:item/thorns3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "minecraft:item/unbreaking1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "minecraft:item/unbreaking2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "minecraft:item/unbreaking3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "minecraft:item/wind_burst1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "minecraft:item/wind_burst2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "minecraft:item/wind_burst3"
+    }
+  ]
+}
