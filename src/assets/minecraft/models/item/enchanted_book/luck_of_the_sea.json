@@ -1,0 +1,17 @@
+{
+  "parent": "item/enchanted_book_levels/luck_of_the_sea1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/luck_of_the_sea2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/luck_of_the_sea3"
+    }
+  ]
+}

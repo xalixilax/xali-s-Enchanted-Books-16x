@@ -1,0 +1,29 @@
+{
+  "parent": "item/enchanted_book_levels/smite1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/smite2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/smite3"
+    },
+    {
+      "predicate": {
+        "level": 4
+      },
+      "model": "item/enchanted_book_levels/smite4"
+    },
+    {
+      "predicate": {
+        "level": 5
+      },
+      "model": "item/enchanted_book_levels/smite5"
+    }
+  ]
+}

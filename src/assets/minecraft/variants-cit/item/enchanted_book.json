@@ -1,0 +1,8 @@
+{
+	"type": "stored_enchantment",
+	"modelPrefix": "item/enchanted_book/",
+	"modelParent": "item/generated",
+	"special": {
+		"multi": "item/multi_enchanted_book"
+	}
+}

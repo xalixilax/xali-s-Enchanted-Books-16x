@@ -1,6 +1,7 @@
 ﻿{
    "pack": {
       "pack_format": 9,
+      "supported_formats": [9, 35],
       "description": "§6By xalixilax\n§4Optifine required"
    }
 }

@@ -1,0 +1,17 @@
+{
+  "parent": "item/enchanted_book_levels/respiration1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/respiration2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/respiration3"
+    }
+  ]
+}

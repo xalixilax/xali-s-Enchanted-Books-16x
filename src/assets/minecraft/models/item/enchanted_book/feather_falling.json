@@ -1,0 +1,23 @@
+{
+  "parent": "item/enchanted_book_levels/feather_falling1",
+  "overrides": [
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "item/enchanted_book_levels/feather_falling2"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "item/enchanted_book_levels/feather_falling3"
+    },
+    {
+      "predicate": {
+        "level": 4
+      },
+      "model": "item/enchanted_book_levels/feather_falling4"
+    }
+  ]
+}

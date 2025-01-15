@@ -1,0 +1,11 @@
+{
+	"parent": "illagers_plus:item/enchanted_book_levels/illagers_bane1",
+	"overrides": [
+		{ "predicate": { "level": 2 }, "model": "illagers_plus:item/enchanted_book_levels/illagers_bane2" },
+		{ "predicate": { "level": 3 }, "model": "illagers_plus:item/enchanted_book_levels/illagers_bane3" },
+		{ "predicate": { "level": 4 }, "model": "illagers_plus:item/enchanted_book_levels/illagers_bane4" },
+		{ "predicate": { "level": 5 }, "model": "illagers_plus:item/enchanted_book_levels/illagers_bane5" },
+		{ "predicate": { "level": 6 }, "model": "illagers_plus:item/enchanted_book_levels/illagers_bane6" },
+		{ "predicate": { "level": 7 }, "model": "illagers_plus:item/enchanted_book_levels/illagers_bane7" }
+	]
+}
