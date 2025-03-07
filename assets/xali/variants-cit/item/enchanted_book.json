@@ -1,0 +1,8 @@
+{
+	"type": "stored_enchantment",
+	"items": "minecraft:enchanted_book",
+	"modelPrefix": "item/enchanted_book/",
+	"parameters": {
+		"levelSeparator": ""
+	}
+}
