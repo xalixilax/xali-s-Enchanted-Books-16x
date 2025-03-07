@@ -1,6 +1,6 @@
-
 {
-	"parent": "item/enchanted_book_levels/channeling1",
-	"overrides": []
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/channeling"
+  }
 }
-
