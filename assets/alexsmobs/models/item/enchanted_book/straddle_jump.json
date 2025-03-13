@@ -1,7 +1,0 @@
-{
-	"parent": "alexsmobs:item/enchanted_book_levels/straddle_jump1",
-	"overrides": [
-		{ "predicate": { "level": 2 }, "model": "alexsmobs:item/enchanted_book_levels/straddle_jump2" },
-		{ "predicate": { "level": 3 }, "model": "alexsmobs:item/enchanted_book_levels/straddle_jump3" }
-	]
-}
